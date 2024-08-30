@@ -28,7 +28,7 @@ To get started with this project:
 
     1. Clone the repository:
 
-        git clone https://github.com/Erickk0/RSA.git
+        git clone https://github.com/Erickk0/RSA_Simple.git
 
      2. Navigate to the project directory:
 
